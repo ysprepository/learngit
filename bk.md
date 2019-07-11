@@ -1,5 +1,5 @@
 GAN
 =====
-train
+train_
 -------
-![](https://github.com/ysprepository/learngit/1.png)
+![](https://github.com/ysprepository/learngit/raw/master/1.png)
